@@ -14,6 +14,7 @@ The model classifies a leaf image into:
 > 🎓 Personal project for practicing Computer Vision, REST APIs and Flutter UI.
 
 ---
+DATASET => "https://www.kaggle.com/datasets/arjuntejaswi/plant-village"
 
 ## 🔧 Tech Stack
 
