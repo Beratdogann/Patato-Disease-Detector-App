@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+
+# FastAPI / logs
+*.log
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/.idea/
+**/.fleet/
+**/.vscode/
+**/*.iml
+pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
