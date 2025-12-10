@@ -51,3 +51,7 @@ potato-disease-detector/
 │  └─ pubspec.yaml           # Flutter dependencies
 │
 └─ README.md
+
+##Result of the  Model 
+<img width="860" height="702" alt="Ekran görüntüsü 2025-12-11 004452" src="https://github.com/user-attachments/assets/b01537dc-d988-4ded-afcc-7d36d8ec56ff" />
+
